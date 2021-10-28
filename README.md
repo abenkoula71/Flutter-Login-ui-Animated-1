@@ -5,7 +5,7 @@
 <img src="https://user-images.githubusercontent.com/69757558/134899704-d6fe4126-7695-4b0f-a6db-7f710bec031c.png" width="300" />
 
 
-<hr>
+<hr> 
 <h2>Getting Started #</h2>
 <h4>First you need to add simple_animations 4.0.0 Or + in the dependency at pubspec.yaml:</h4>
 <h5>Get New Version of simple_animations in<a href="https://pub.dev/packages/simple_animations/install" > .Here !</a> </h5>
