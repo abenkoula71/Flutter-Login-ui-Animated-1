@@ -1,5 +1,5 @@
 # Flutter-awesome-login-page-animated-fastCode
-<h1>🐱‍ 👤 Fast code and awesome design-ui for Login Page !  🔥</h1>
+<h1>🐱‍👤 Fast code and awesome design-ui for Login Page !  🔥</h1>
 <hr>
 
 <img src="https://user-images.githubusercontent.com/69757558/134899704-d6fe4126-7695-4b0f-a6db-7f710bec031c.png" width="300" />
